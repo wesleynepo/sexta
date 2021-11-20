@@ -1,0 +1,22 @@
+{
+  "name": "sextou",
+  "version": "1.0.0",
+  "description": "Sextou seus aligenígenas!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wesleynepo/sextou.git"
+  },
+  "keywords": [
+    "sextou"
+  ],
+  "author": "Wesley Nepomuceno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wesleynepo/sextou/issues"
+  },
+  "homepage": "https://github.com/wesleynepo/sextou#readme"
+}
