@@ -1,6 +1,6 @@
 {
   "name": "sexta",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sextou seus aligenígenas!",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/wesleynepo/sextou.git"
+    "url": "git+ssh://git@github.com/wesleynepo/sexta.git"
   },
   "keywords": [
     "sextou"
