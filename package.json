@@ -1,6 +1,6 @@
 {
   "name": "sexta",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sextou seus aligenígenas!",
   "main": "index.js",
   "scripts": {
@@ -11,12 +11,17 @@
     "url": "git+ssh://git@github.com/wesleynepo/sexta.git"
   },
   "keywords": [
-    "sextou"
+    "sextou",
+    "sexta",
+    "aligenigena"
   ],
   "author": "Wesley Nepomuceno",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wesleynepo/sextou/issues"
+    "url": "https://github.com/wesleynepo/sexta/issues"
   },
-  "homepage": "https://github.com/wesleynepo/sextou#readme"
+  "homepage": "https://github.com/wesleynepo/sexta#readme",
+  "bin": {
+    "sexta": "./index.js"
+  }
 }

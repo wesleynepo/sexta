@@ -15,7 +15,7 @@
 ## Installing
 Install globally:
 
-    npm install -g sextou
+    npm install -g sexta
 
 ## Running
 Run command:
@@ -24,14 +24,14 @@ Run command:
 
 Or import in NodeJS script:
 
-    import sextou from 'sextou';
+    import sextou from 'sexta';
 
     sextou();
     
 ## Running with [npx](https://www.npmjs.com/package/npx)
 Run command:
 
-    npx sextou
+    npx sexta
 
 
 ## See also
